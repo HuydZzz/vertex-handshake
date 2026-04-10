@@ -10,7 +10,7 @@
 
 **Two nodes. One mesh. Zero cloud.**
 
-[Live Demo](https://vertexhandshake.vercel.app)
+[Live Demo](https://vertex-handshake.vercel.app/)
 
 </div>
 
@@ -34,7 +34,7 @@ Node-B is killed (simulating network failure or crash). Node-A detects the loss 
 ## Run It
 
 ### Live Demo
-👉 **[vertexhandshake.vercel.app](https://vertexhandshake.vercel.app)**
+👉 **[vertexhandshake.vercel.app](https://vertex-handshake.vercel.app/)**
 
 ### Local
 ```bash
