@@ -83,8 +83,4 @@ vertex-handshake/
 
 <div align="center">
 
-*Built for the Vertex Swarm Challenge 2026 Warm-Up Track*
-
-⬡
-
 </div>
