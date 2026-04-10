@@ -4,7 +4,6 @@
 
 ### The Stateful P2P Handshake — Warm-Up Track
 
-**[Vertex Swarm Challenge 2026](https://dorahacks.io/hackathon/global-vertex-swarm-challenge)**
 
 [![Vertex SDK](https://img.shields.io/badge/Tashi_Vertex-P2P_Consensus-38bdf8?style=flat-square)](https://docs.tashi.network/)
 [![Zero Cloud](https://img.shields.io/badge/Cloud_Calls-ZERO-ef4444?style=flat-square)](/)
