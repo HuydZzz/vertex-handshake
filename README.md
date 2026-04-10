@@ -2,7 +2,7 @@
 
 # VertexHandshake
 
-### The Stateful P2P Handshake — Warm-Up Track
+### The Stateful P2P Handshake
 
 
 [![Vertex SDK](https://img.shields.io/badge/Tashi_Vertex-P2P_Consensus-38bdf8?style=flat-square)](https://docs.tashi.network/)
