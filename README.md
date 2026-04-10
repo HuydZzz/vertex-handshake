@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⬡ VertexHandshake
+# VertexHandshake
 
 ### The Stateful P2P Handshake — Warm-Up Track
 
